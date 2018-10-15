@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ReadCard</string>
+    <string name="button_scan">Scanear Codigo de Barras</string>
+    <string name="creditCardNumber">Numero de Tarjeta</string>
+    <string name="dateCard">Fecha Vencimiento</string>
+    <string name="cvv">CCV</string>
+    <string name="PostalCode">Codigo Postal</string>
+</resources>
